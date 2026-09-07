@@ -52,5 +52,5 @@ infrastructure, and parameter estimation.
 
 [sutanubhowmick.com](https://sutanubhowmick.com) ·
 [LinkedIn](https://www.linkedin.com/in/sutanubhowmick/) ·
-[ORCID 0000-0001-9350-4803](https://orcid.org/0000-0001-9350-4803) ·
-[Google Scholar](https://scholar.google.com/citations?user=-pgkA6MAAAAJ)
+[Google Scholar](https://scholar.google.com/citations?user=-pgkA6MAAAAJ) ·
+[ORCID](https://orcid.org/0000-0001-9350-4803)
