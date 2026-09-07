@@ -29,6 +29,6 @@ video measurements of a vibrating beam.
 **Links**
 
 [sutanubhowmick.com](https://sutanubhowmick.com) ·
-[LinkedIn](https://www.linkedin.com/in/sutanu-bhowmick-455303232) ·
+[LinkedIn](https://www.linkedin.com/in/sutanubhowmick/) ·
 [ORCID 0000-0001-9350-4803](https://orcid.org/0000-0001-9350-4803) ·
 [Google Scholar](https://scholar.google.com/citations?user=-pgkA6MAAAAJ)
