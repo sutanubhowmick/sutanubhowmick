@@ -40,7 +40,7 @@ SNAPE exists because deep learning was not repeatable enough for this problem.
 Knowing when a model is wrong, and how much to trust it when it is right, is the
 same discipline that decides whether an AI system is safe to run at scale.
 
-**An open-source implementation and interactive demonstrations are in preparation.**
+**An open-source implementation, pysnape, is available at [sutanubhowmick.github.io/pysnape](https://sutanubhowmick.github.io/pysnape/).**
 
 ### Selected publications
 
